@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://atop-dev.github.io/blog</id>
+    <title>ATOP BLOCKCHAIN Blog</title>
+    <updated>2021-06-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://atop-dev.github.io/blog"/>
+    <subtitle>ATOP BLOCKCHAIN Blog</subtitle>
+    <icon>https://atop-dev.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[License Program]]></title>
+        <id>license_program</id>
+        <link href="https://atop-dev.github.io/kr/blog/license_program"/>
+        <updated>2021-06-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We open the license program for the enterprises to use transactions over ATOP Blockchain.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Product Release]]></title>
+        <id>product_release</id>
+        <link href="https://atop-dev.github.io/kr/blog/product_release"/>
+        <updated>2021-06-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ATOP CLOUD is a technology-driven startup to streamline and democratize digital transformation in financial service sector. We are working on cloud native, Open API, and blockchain technology development to achieve this, and we provide ATOP open finance platform (OFP) to help the enterprises to get easily started with finance digital transformation journey forward financial inclusion. Thanks to easy-to-adopt ATOP OFP, any enterprise can develop and operated its differentiated financial services in a simple and hassle-free way.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professional Service]]></title>
+        <id>professional_service</id>
+        <link href="https://atop-dev.github.io/kr/blog/professional_service"/>
+        <updated>2021-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ATOP Blockchain 라이선스 고객에게 기술, 아키텍쳐, 서비스를 포함한 다양한 분야의 컨설팅 서비스 및 Professional Service 를 제공합니다.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Finance]]></title>
+        <id>open_finance</id>
+        <link href="https://atop-dev.github.io/kr/blog/open_finance"/>
+        <updated>2021-04-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ATOP CLOUD believes that Open Finance should embrace Open Banking, GSMA Mobile Money and Blockchain for financial inclusion. They build open finance platform to run seamlessly open banking, mobile money and blockchain in an unified manner. ATOP CLOUD aims to be next generation of financial infrastructure, which is converged open finance platform atop cloud.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mainnet Release]]></title>
+        <id>mainnet_release</id>
+        <link href="https://atop-dev.github.io/kr/blog/mainnet_release"/>
+        <updated>2021-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[스마트폰을 통한 크립토마이닝 지원을 시작으로, 오픈 파이낸스 서비스를 지향하는 ATOP 블록체인 메인넷이 출시되었습니다.]]></summary>
+    </entry>
+</feed>
