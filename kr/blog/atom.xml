@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atop-dev.github.io/blog</id>
     <title>ATOP BLOCKCHAIN Blog</title>
-    <updated>2021-06-05T00:00:00.000Z</updated>
+    <updated>2021-08-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://atop-dev.github.io/blog"/>
     <subtitle>ATOP BLOCKCHAIN Blog</subtitle>
     <icon>https://atop-dev.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Postech Collaboration]]></title>
+        <id>postech_collaboration</id>
+        <link href="https://atop-dev.github.io/kr/blog/postech_collaboration"/>
+        <updated>2021-08-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ATOP CLOUD and POSTECH are collaborating through ITRC (Instructional Technology Resource Center) program to work on inter-blockchain expansion, especially between financial blockchain and automotive blockchain.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech Document Release]]></title>
+        <id>technical_docs</id>
+        <link href="https://atop-dev.github.io/kr/blog/technical_docs"/>
+        <updated>2021-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are thrilled to notify that the technical details on ATOP Blockchain are just released. It is available at https://docs.atopbc.com/docs/getting_started/intro now. We will keep you posted on updates so please stay tuned.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[License Program]]></title>
         <id>license_program</id>

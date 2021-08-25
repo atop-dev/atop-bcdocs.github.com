@@ -4,9 +4,23 @@
         <title>ATOP BLOCKCHAIN Blog</title>
         <link>https://atop-dev.github.io/blog</link>
         <description>ATOP BLOCKCHAIN Blog</description>
-        <lastBuildDate>Sat, 05 Jun 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Postech Collaboration]]></title>
+            <link>https://atop-dev.github.io/kr/blog/postech_collaboration</link>
+            <guid>postech_collaboration</guid>
+            <pubDate>Mon, 23 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[ATOP CLOUD and POSTECH are collaborating through ITRC (Instructional Technology Resource Center) program to work on inter-blockchain expansion, especially between financial blockchain and automotive blockchain.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tech Document Release]]></title>
+            <link>https://atop-dev.github.io/kr/blog/technical_docs</link>
+            <guid>technical_docs</guid>
+            <pubDate>Sat, 14 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are thrilled to notify that the technical details on ATOP Blockchain are just released. It is available at https://docs.atopbc.com/docs/getting_started/intro now. We will keep you posted on updates so please stay tuned.]]></description>
+        </item>
         <item>
             <title><![CDATA[License Program]]></title>
             <link>https://atop-dev.github.io/kr/blog/license_program</link>
